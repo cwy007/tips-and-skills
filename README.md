@@ -7,5 +7,9 @@ https://ruby-china.org/topics/34627
 # gitbook 使用参考
 https://morrowind.gitbooks.io/gitbook_notes/content/GitBook/gitbook_str_pro.html
 
+```
+# 在终端启动 gitbook
+gitbook serve
+```
 # read on gitbook
 https://cwy007.gitbooks.io/tips-and-skills/content/
