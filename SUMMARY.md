@@ -11,4 +11,5 @@
 
 * [2 小教程](tutorials/tutorials.md)
   * [2.1 rails 终端指令](problems/rails/2.1rails终端指令.md)
+  * [2.2 用bootstrap4中的class居中block元素](problems/rails/2.2用bootstrap4中的class居中block元素.md)
   <!-- * [1.2]()   -->
