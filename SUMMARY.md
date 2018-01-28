@@ -10,6 +10,5 @@
   * [1.3 Ruby](problems/ruby.md)  
 
 * [2 小教程](tutorials/tutorials.md)
-  <!-- * [1.1]()
-  * [1.2]()  
-  * [1.3]()   -->
+  * [2.1 rails 终端指令](problems/rails/2.1rails终端指令.md)
+  <!-- * [1.2]()   -->
